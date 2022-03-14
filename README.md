@@ -1,4 +1,4 @@
-# advance_ui
+# Travel Blog UI
 
 A new Flutter project.
 
